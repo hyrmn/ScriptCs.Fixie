@@ -23,8 +23,10 @@ Note! Neither Fixie nor this Script Pack includes an assertion library. You will
 
 ### Example
 
+	scriptcs -install Shouldly
+
+
 ```
-#r "Shouldly.dll"
 using Shouldly;
 
 public class SomeTests
